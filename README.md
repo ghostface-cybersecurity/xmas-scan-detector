@@ -4,5 +4,5 @@
 <h4 align="center">launch</h4>
 
 ```
-sudo python3 Xmas-detecrtor.py
+sudo python3 xmas-detecrtor.py
 ```
